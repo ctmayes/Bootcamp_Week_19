@@ -73,7 +73,7 @@ The Streamlit application will run locally in your browser and should launch aut
 ---
 ## Ganache Validation
 
-In the screenshot below we can clearly see within Ganacge the sender’s address balance and history
+In the screenshot below we can clearly see within Ganache the sender’s address balance and history
 
 ![history](/Resources/ganache_accounts.PNG)
 
